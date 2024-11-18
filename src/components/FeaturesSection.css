@@ -1,0 +1,19 @@
+/* FeaturesSection.css */
+.features-section {
+    padding: 20px;
+    background-color: #f9f9f9;
+  }
+  
+  .features-list {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+  }
+  
+  .feature-item {
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: white;
+  }
+  
